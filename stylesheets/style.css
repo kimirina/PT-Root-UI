@@ -609,12 +609,7 @@ img {
   max-width: 640px;
 }
 
-/* .light img {
-  width: 562px;
-  position: absolute;
-  top: 0;
-  right: 150px;
-} */
+
 
 .light_titile {
   position: absolute;
@@ -660,10 +655,6 @@ img {
   width: 23px;
   height: 23px;
 }
-
-/* .outline {
-  margin-top: 1500px;
-} */
 
 .outline {
   position: relative;
@@ -938,7 +929,7 @@ img {
 .features_sub_title_1::after {
   position: absolute;
   content: "";
-  bottom: 20px;
+  bottom: 16px;
   width: 528px;
   height: 3px;
   background: #eaff47;
