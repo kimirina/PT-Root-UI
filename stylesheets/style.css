@@ -473,8 +473,8 @@ img {
 .medium_text::before {
   position: absolute;
   content: "";
-  bottom: -129px;
-  right: -77px;
+  bottom: -115px;
+  right: -90px;
   height: 24px;
   width: 3px;
   background: #eaff47;
@@ -603,7 +603,7 @@ img {
   content: "";
   top: 31px;
   right: 28px;
-  height: 161px;
+  height: 181px;
   width: 3px;
   background: #eaff47;
   max-width: 640px;
