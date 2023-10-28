@@ -138,8 +138,8 @@ img {
 .second_screen_top img {
   position: absolute;
   left: 0;
-  top: 7px;
-  height: 32px;
+  top: 10px;
+  height: 26px;
 }
 .second_screen_top h2 {
   /* text-align: center; */
@@ -518,7 +518,7 @@ img {
 .regular::after {
   position: absolute;
   content: "";
-  top: 0;
+  top: 0px;
   right: 26px;
   height: 100%;
   width: 3px;
